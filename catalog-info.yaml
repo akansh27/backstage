@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-poc
+  description: Personal Backstage POC repo
+  tags:
+    - poc
+    - backstage
+  links:
+    - url: https://github.com/akansh27/backstage
+      title: GitHub Repo
+      icon: github
+spec:
+  type: service
+  lifecycle: experimental
+  owner: user:akansh27
