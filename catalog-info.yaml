@@ -6,6 +6,8 @@ metadata:
   tags:
     - poc
     - backstage
+  annotations:
+    github.com/project-slug: akansh27/backstage
   links:
     - url: https://github.com/akansh27/backstage
       title: GitHub Repo
